@@ -5,5 +5,5 @@ Pengimplementasian UI dari Mobile App Tokopedia
 - Other (Soon)
 
 ### Screenshot UI dengan Flutter
-<img src= "TOKPED.png">
+<img src= "TOKPED.png" width=1000>
 
